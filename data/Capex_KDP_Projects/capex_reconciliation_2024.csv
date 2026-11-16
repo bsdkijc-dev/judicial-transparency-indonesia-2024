@@ -1,0 +1,14 @@
+Fiscal_Year,Mutation_Code,Description,Amount_IDR,Mutation_Type,Source_Reference
+2024,OPENING,Saldo Awal TAYL (Proses Migrasi),915655052073,Opening Balance,CaLK C.2.6 Tabel 52 p.91
+2024,503,Pengembangan KDP (117 satkers),914457263518,Addition,CaLK C.2.6 Tabel 52 p.91
+2024,502,Perolehan/Penambahan KDP (88 satkers),74901184968,Addition,CaLK C.2.6 Tabel 52 p.91
+2024,510,Perolehan Lainnya KDP (11 satkers),68054173722,Addition,CaLK C.2.6 Tabel 52 p.91
+2024,504,Koreksi Nilai KDP Bertambah (23 satkers),62832787030,Addition,CaLK C.2.6 Tabel 52 p.91
+2024,508,Hibah Masuk KDP (24 satkers Pemda),9602719578,Addition,CaLK C.2.6 Tabel 52 p.91
+2024,514,Reklasifikasi Masuk KDP (PN Sumenep),102804703,Addition,CaLK C.2.6 Tabel 52 p.91
+2024,513,Reklasifikasi Keluar KDP,-102804703,Reduction,CaLK C.2.6 Tabel 52 p.91
+2024,505,Penghapusan/Penghentian Permanen KDP (5 satkers),-1588454024,Reduction,CaLK C.2.6 Tabel 52 p.91
+2024,564,Koreksi Nilai KDP Berkurang (20 satkers),-34586243239,Reduction,CaLK C.2.6 Tabel 52 p.91
+2024,517,Koreksi Pencatatan KDP (25 satkers),-103431867024,Reduction,CaLK C.2.6 Tabel 52 p.91
+2024,599,Reklasifikasi KDP menjadi Barang Jadi (114 satkers),-1430633557578,Reduction,CaLK C.2.6 Tabel 52 p.91
+2024,CLOSING,Saldo per 31 Desember 2024,475263059024,Closing Balance,CaLK C.2.6 Tabel 52 p.91

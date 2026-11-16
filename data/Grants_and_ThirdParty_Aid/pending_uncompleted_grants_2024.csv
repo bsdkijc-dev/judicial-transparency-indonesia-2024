@@ -1,0 +1,3 @@
+Fiscal_Year,Item_Code,Description,Amount_IDR,Source_Page,Verification_Status,Notes
+2024,HIBAH_BELUM_DISAHKAN,Hibah Langsung yang Belum Disahkan (Neraca C.5),0,CaLK C.5 p.115 (PDF1 p.146),VERIFIED_SOURCE,Zero balance as of 31 Dec 2024
+2024,PENGEMBALIAN_HIBAH_391132,Pengesahan Pengembalian Hibah Langsung (391132),68113485,CaLK p.237 (PDF2 p.71),VERIFIED_SOURCE,"PT Palembang Rp 62,725,822 + PN Cibinong Rp 790,620 + PA Gresik Rp 4,597,043"

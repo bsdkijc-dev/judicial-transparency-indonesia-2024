@@ -1,0 +1,2 @@
+Fiscal_Year,Reconciliation_Scope,Reported_Closing_Balance,Bank_Plus_Safe_Balance,Unaccounted_Variance,Calculated_Closing_Balance,Movement_Reconciliation_Variance,Verification_Status,Notes
+2024,Mahkamah Agung Consolidated (Uang Titipan),6186569389463.34,6186569389463.34,0.00,6186569389463.34,0.00,VERIFIED_RECONCILED,"Dec 2024 closing = Bank (6,176,230,129,798.18) + Safe (10,339,259,665.16); sum of Kepaniteraan + Badilum + Badilag + Badilmiltun"
