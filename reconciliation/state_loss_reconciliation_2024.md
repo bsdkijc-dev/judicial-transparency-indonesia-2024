@@ -7,7 +7,7 @@
 * **Remaining Outstanding Balance (31 Dec 2024):** **Rp 18,737,506.00** (`0.06%`), representing a single active TGR Non-Bendahara receivable (`[REDACTED-INDIVIDUAL-04]`, PTUN Ambon), reconciled **100%** to Neraca:
   * Current Portion (*Tagihan TGR Bagian Lancar*, CaLK C.1.7 Tabel 31, p. 70): **Rp 14,989,992.00**
   * Long-Term Portion (*Tagihan TGR Jangka Panjang*, CaLK C.3.1 Tabel 57, p. 103): **Rp 3,747,514.00**
-* **Administrative Exception (`EXC-2024-005`):** *PA Pekalongan (Sdri. [REDACTED-INDIVIDUAL-02])* — **Rp 22,772,000.00** fully paid by debtor, still listed under *Proses Penetapan* pending formal BPK removal pursuant to PerBPK No. 3 Tahun 2007 Article 18.
+* **Administrative Exception (`EXC-2024-005`):** *PA Pekalongan ([REDACTED-INDIVIDUAL-02])* — **Rp 22,772,000.00** fully paid by debtor, still listed under *Proses Penetapan* pending formal BPK removal pursuant to PerBPK No. 3 Tahun 2007 Article 18.
 
 ## 2. BPK Audit Recommendations Follow-Up (2005–2024, CaLK F.2, p. 174)
 
