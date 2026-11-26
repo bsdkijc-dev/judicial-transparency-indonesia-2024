@@ -1,4 +1,18 @@
-# Judicial Transparency Indonesia — FY 2024 Mahkamah Agung RI Financial Reconciliation
+<div align="center">
+
+<img src="assets/logo.png" alt="Judicial Transparency Indonesia — FY 2024 Logo" width="140">
+
+# Judicial Transparency Indonesia — FY 2024
+
+### Auditable six-tab financial reconciliation dataset from the FY 2024 Mahkamah Agung RI audited financial report.
+
+[![License](https://img.shields.io/badge/License-CC_BY_4.0_/_MIT-blue?style=flat)](LICENSE) ![Stack](https://img.shields.io/badge/Data-CSV_%26_Markdown-0F766E?style=flat)
+
+[Documentation](metadata/) · [Repository](https://github.com/bsdkijc-dev/judicial-transparency-indonesia-2024)
+
+</div>
+
+---
 
 Structured, auditable, Google Sheets-ready (UTF-8 CSV, pure numeric fields) and Markdown dataset extracted from [*Laporan Keuangan Mahkamah Agung Republik Indonesia Tahun 2024 (Audited)*](https://drive.google.com/drive/folders/1RCxAVq3rPVMYZbeXNIDXcENgbeBN_UUv) (signed 6 Mei 2025).
 
@@ -9,3 +23,13 @@ Structured, auditable, Google Sheets-ready (UTF-8 CSV, pure numeric fields) and 
 
 ## Licence
 Data: [CC BY 4.0](LICENSE). Code (scripts, notebooks, pipelines): [MIT](LICENSE-CODE). © 2026 Cecep Mustafa / Indonesian Judicial College (IJC) — ORCID 0000-0003-0037-497X.
+
+---
+
+<div align="center">
+
+**Judicial Transparency Indonesia — FY 2024**
+
+[github.com/bsdkijc-dev/judicial-transparency-indonesia-2024](https://github.com/bsdkijc-dev/judicial-transparency-indonesia-2024)
+
+</div>
